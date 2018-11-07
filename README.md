@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Demo of the app can be accessed on https://mrfazry.github.io/weather-forecast/
 
 ## Available Scripts
 
