@@ -1,35 +1,5 @@
 import React from 'react';
 
-/**
- * contoh tabel
- * <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>date0</td>
-        <td>temp0</td>
-        <td>diff0</td>
-      </tr>
-      <tr>
-        <td>date1</td>
-        <td>temp1</td>
-        <td>diff1</td>
-      </tr>
-      <tr>
-        <td>July</td>
-        <td>Dooley</td>
-        <td>julyexample.com</td>
-      </tr>
-    </tbody>
-  </table>
- */
-
 const TableGroup = ({ header, date, dailyTemp, tempDiff }) => {
   const tableHeader = header.map(data => <th>{data}</th>);
 
